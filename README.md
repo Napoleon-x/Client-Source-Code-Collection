@@ -1,2 +1,2 @@
 # Client-Source-Code-Collection
-The shit will be uploaded soon
+The rest will be uploaded later when github stops being gay
